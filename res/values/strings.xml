@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blanco">#FFFFFF</color><color name="Negro">#000000</color><color name="Rojo">#FF0000</color><string name="app_name">FlickMap</string>
+    <string name="error">Error</string>
+    <string name="search">Buscar \nFotografias</string>
+    
+    
+    
+    <string name="vacio">&quot;&quot;</string>
+    <string name="Ubicacion">Ubicacion:</string>
+</resources>
